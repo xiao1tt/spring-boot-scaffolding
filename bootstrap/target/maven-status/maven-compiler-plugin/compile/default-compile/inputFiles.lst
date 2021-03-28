@@ -1,0 +1,13 @@
+/Users/chenxiaotong/Work/github/spring-boot-scaffolding/bootstrap/src/main/java/com/theone/scaffolding/aop/LogAop.java
+/Users/chenxiaotong/Work/github/spring-boot-scaffolding/bootstrap/src/main/java/com/theone/scaffolding/config/JacksonConfig.java
+/Users/chenxiaotong/Work/github/spring-boot-scaffolding/bootstrap/src/main/java/com/theone/scaffolding/config/ShiroConfig.java
+/Users/chenxiaotong/Work/github/spring-boot-scaffolding/bootstrap/src/main/java/com/theone/scaffolding/config/RedisTemplateConfig.java
+/Users/chenxiaotong/Work/github/spring-boot-scaffolding/bootstrap/src/main/java/com/theone/scaffolding/config/SpringBootPlusConfig.java
+/Users/chenxiaotong/Work/github/spring-boot-scaffolding/bootstrap/src/main/java/com/theone/scaffolding/config/RestTemplateConfig.java
+/Users/chenxiaotong/Work/github/spring-boot-scaffolding/bootstrap/src/main/java/com/theone/scaffolding/handler/GlobalExceptionHandler.java
+/Users/chenxiaotong/Work/github/spring-boot-scaffolding/bootstrap/src/main/java/com/theone/scaffolding/config/Swagger2Config.java
+/Users/chenxiaotong/Work/github/spring-boot-scaffolding/bootstrap/src/main/java/com/theone/scaffolding/config/SpringBootPlusWebMvcConfig.java
+/Users/chenxiaotong/Work/github/spring-boot-scaffolding/bootstrap/src/main/java/com/theone/scaffolding/SpringBootPlusApplication.java
+/Users/chenxiaotong/Work/github/spring-boot-scaffolding/bootstrap/src/main/java/com/theone/scaffolding/config/RedisCacheConfig.java
+/Users/chenxiaotong/Work/github/spring-boot-scaffolding/bootstrap/src/main/java/com/theone/scaffolding/config/SpringBootPlusCorsConfig.java
+/Users/chenxiaotong/Work/github/spring-boot-scaffolding/bootstrap/src/main/java/com/theone/scaffolding/config/MybatisPlusConfig.java

@@ -1,0 +1,13 @@
+/Users/chenxiaotong/Work/github/spring-boot-scaffolding/example/src/main/java/com/theone/example/foobar/param/FooBarPageParam.java
+/Users/chenxiaotong/Work/github/spring-boot-scaffolding/example/src/main/java/com/theone/example/foobar/controller/FooBarController.java
+/Users/chenxiaotong/Work/github/spring-boot-scaffolding/example/src/main/java/com/theone/example/foobar/service/FooBarService.java
+/Users/chenxiaotong/Work/github/spring-boot-scaffolding/example/src/main/java/com/theone/example/order/service/impl/ExampleOrderServiceImpl.java
+/Users/chenxiaotong/Work/github/spring-boot-scaffolding/example/src/main/java/com/theone/example/foobar/entity/FooBar.java
+/Users/chenxiaotong/Work/github/spring-boot-scaffolding/example/src/main/java/com/theone/example/order/mapper/ExampleOrderMapper.java
+/Users/chenxiaotong/Work/github/spring-boot-scaffolding/example/src/main/java/com/theone/example/order/service/ExampleOrderService.java
+/Users/chenxiaotong/Work/github/spring-boot-scaffolding/example/src/main/java/com/theone/example/foobar/service/impl/FooBarServiceImpl.java
+/Users/chenxiaotong/Work/github/spring-boot-scaffolding/example/src/main/java/com/theone/example/order/controller/ExampleOrderController.java
+/Users/chenxiaotong/Work/github/spring-boot-scaffolding/example/src/main/java/com/theone/example/order/entity/ExampleOrder.java
+/Users/chenxiaotong/Work/github/spring-boot-scaffolding/example/src/main/java/com/theone/example/order/param/ExampleOrderPageParam.java
+/Users/chenxiaotong/Work/github/spring-boot-scaffolding/example/src/main/java/com/theone/example/foobar/vo/FooBarQueryVo.java
+/Users/chenxiaotong/Work/github/spring-boot-scaffolding/example/src/main/java/com/theone/example/foobar/mapper/FooBarMapper.java

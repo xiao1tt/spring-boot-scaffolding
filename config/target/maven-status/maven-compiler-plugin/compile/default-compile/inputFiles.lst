@@ -1,0 +1,13 @@
+/Users/chenxiaotong/Work/github/spring-boot-scaffolding/config/src/main/java/com/theone/scaffolding/config/properties/SpringBootPlusProperties.java
+/Users/chenxiaotong/Work/github/spring-boot-scaffolding/config/src/main/java/com/theone/scaffolding/config/constant/CommonConstant.java
+/Users/chenxiaotong/Work/github/spring-boot-scaffolding/config/src/main/java/com/theone/scaffolding/config/constant/CommonRedisKey.java
+/Users/chenxiaotong/Work/github/spring-boot-scaffolding/config/src/main/java/com/theone/scaffolding/config/constant/DatePattern.java
+/Users/chenxiaotong/Work/github/spring-boot-scaffolding/config/src/main/java/com/theone/scaffolding/config/properties/SpringBootPlusInterceptorProperties.java
+/Users/chenxiaotong/Work/github/spring-boot-scaffolding/config/src/main/java/com/theone/scaffolding/config/constant/CacheKey.java
+/Users/chenxiaotong/Work/github/spring-boot-scaffolding/config/src/main/java/com/theone/scaffolding/config/properties/SpringBootPlusFilterProperties.java
+/Users/chenxiaotong/Work/github/spring-boot-scaffolding/config/src/main/java/com/theone/scaffolding/config/properties/SpringBootPlusAopProperties.java
+/Users/chenxiaotong/Work/github/spring-boot-scaffolding/config/src/main/java/com/theone/scaffolding/config/properties/ShiroProperties.java
+/Users/chenxiaotong/Work/github/spring-boot-scaffolding/config/src/main/java/com/theone/scaffolding/config/properties/SpringBootPlusStaticProperties.java
+/Users/chenxiaotong/Work/github/spring-boot-scaffolding/config/src/main/java/com/theone/scaffolding/config/properties/ShiroPermissionProperties.java
+/Users/chenxiaotong/Work/github/spring-boot-scaffolding/config/src/main/java/com/theone/scaffolding/config/properties/JwtProperties.java
+/Users/chenxiaotong/Work/github/spring-boot-scaffolding/config/src/main/java/com/theone/scaffolding/config/properties/SpringBootPlusCorsProperties.java
