@@ -1,0 +1,12 @@
+com/theone/scaffolding/config/RestTemplateConfig.class
+com/theone/scaffolding/config/RedisCacheConfig.class
+com/theone/scaffolding/config/RedisTemplateConfig.class
+com/theone/scaffolding/SpringBootPlusApplication.class
+com/theone/scaffolding/aop/LogAop.class
+com/theone/scaffolding/config/MybatisPlusConfig.class
+com/theone/scaffolding/config/SpringBootPlusWebMvcConfig.class
+com/theone/scaffolding/config/ShiroConfig.class
+com/theone/scaffolding/handler/GlobalExceptionHandler.class
+com/theone/scaffolding/config/JacksonConfig.class
+com/theone/scaffolding/config/SpringBootPlusConfig.class
+com/theone/scaffolding/config/SpringBootPlusCorsConfig.class
